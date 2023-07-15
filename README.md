@@ -1,5 +1,6 @@
 # integrador_LAB2
-1 -Enunciado Se requiere un programa que calcule la edad del usuario.
+1-Enunciado
+Se requiere un programa que calcule la edad del usuario.
 
 Conceptos aplicados:
 Estructura de programación secuencial. Comentarios. Salidas por pantalla. Tipos de datos.
@@ -36,7 +37,8 @@ Estructura de programación secuencial. Comentarios. Salidas por pantalla. Tipos
 Variables. Operador de asignación. Entrada de datos. Concatenar datos. Caracteres de
 escape.Operadores aritméticos. Expresión vs. Instrucción. Pruebas de escritorio.
 
-4-Enunciado Desarrollar un algoritmo que permita ingresar una hora del día (entre 0 y 23, si
+4-Enunciado
+Desarrollar un algoritmo que permita ingresar una hora del día (entre 0 y 23, si
 no, informar un error). La computadora debe mostrar a qué momento del día pertenece
 según lo siguiente: ▪ Madrugada: Entre 0 y 5, inclusive ▪ Mañana: Entre 6 y 11, inclusive ▪
 Mediodía: Entre 12 y 13, inclusive ▪ Tarde: Entre 14 y 19, inclusive ▪ Noche: Entre 20 y 23,
@@ -53,17 +55,19 @@ Desarrollar un algoritmo que permita ingresar la edad y el sueldo anual en dóla
 empleado. La computadora debe mostrar el monto del aporte al sindicato que se debe
 descontar del salario del empleado, según el siguiente cuadro:
 ![cuadro](image.png)
-
 Si la persona tiene 30 años o menos, se sumará un 20% adicional al valor del aporte
 sindical. Ejemplos: ▪ Si ingresa 32 años y 8000 dólares, el aporte sería de 40 dólares. ▪ Si
 ingresa 25 años y 25.000 dólares, el aporte sería de 600 dólares.
+
 Conceptos aplicados
 Estructura de programación secuencial. Comentarios. Salidas por pantalla. Tipos de datos.
 Variables. Operador de asignación. Entrada de datos. Concatenar datos. Caracteres de
 escape. Operadores aritméticos. Expresión vs. Instrucción. Pruebas de escritorio.
 Operadores relacionales. Estructuras de programación condicional. IF. IF-ELSE.
 Anidamiento de IF-ELSE. ELIF. Operadores lógicos. Prioridad de operadores
-6- Enunciado Desarrollar un algoritmo que permita ingresar dos números enteros y un
+
+6-Enunciado
+Desarrollar un algoritmo que permita ingresar dos números enteros y un
 símbolo que indique una operación matemática a realizar con ellos:
 ▪ + para sumar ▪ - para restar ▪ x para multiplicar ▪ / para dividir
 La computadora debe mostrar el resultado de la operación.
@@ -79,6 +83,7 @@ programación condicional múltiple.
 Desarrollar un algoritmo que permita ingresar un número entero positivo. La computadora
 debe mostrar la sucesión de números pares desde el número ingresado hasta el cero
 (inclusive), en una sola línea: Ejemplo: Si ingresa 15, debe mostrar: 14 12 10 8 6 4 2 0
+
 Conceptos aplicados Estructura de programación secuencial. Comentarios. Salidas por
 pantalla. Tipos de datos. Variables. Operador de asignación. Entrada de datos. Concatenar
 datos. Caracteres de escape. Operadores aritméticos. Expresión vs. Instrucción. Pruebas
@@ -86,7 +91,9 @@ de escritorio. Operadores relacionales. Estructuras de programación condicional
 IF-ELSE. Anidamiento de IF-ELSE. ELIF. Operadores lógicos. Prioridad de operadores.
 Estructura de programación condicional múltiple. Estructura de programación de repetición.
 WHILE. Ciclos por contador
-8-Enunciado Desarrollar un algoritmo que permita ingresar un número entero entre 1 y 10
+
+8-Enunciado
+Desarrollar un algoritmo que permita ingresar un número entero entre 1 y 10
 (inclusive). La computadora debe mostrar la tabla de multiplicar del número ingresado.
 Ejemplo: Si ingresa 7, debe mostrar:
 7 x 1 = 7
@@ -99,6 +106,7 @@ Ejemplo: Si ingresa 7, debe mostrar:
 7 x 8 = 56
 7 x 9 = 63
 7 x 10 = 70
+
 Conceptos aplicados
 Estructura de programación secuencial. Comentarios. Salidas por pantalla. Tipos de datos.
 Variables. Operador de asignación. Entrada de datos. Concatenar datos. Caracteres de
@@ -107,9 +115,12 @@ Operadores relacionales. Estructuras de programación condicional. IF. IF-ELSE.
 Anidamiento de IF-ELSE. ELIF. Operadores lógicos. Prioridad de operadores. Estructura de
 programación condicional múltiple. Estructura de programación de repetición. WHILE. Ciclos
 por contador. FOR.
-9-Enunciado:Desarrollar un algoritmo que permita ingresar una cantidad de personas. La
+
+9-Enunciado
+Desarrollar un algoritmo que permita ingresar una cantidad de personas. La
 computadora debe pedir la edad de cada una y finalmente mostrar el porcentaje de
 personas que es mayor de edad.
+
 Conceptos aplicados
 Estructura de programación secuencial. Comentarios. Salidas por pantalla. Tipos de datos.
 Variables. Operador de asignación. Entrada de datos. Concatenar datos. Caracteres de
